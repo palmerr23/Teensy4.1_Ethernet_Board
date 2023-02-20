@@ -1,5 +1,7 @@
 # Teensy4.1_Ethernet_Board
-A MagJack board for Teensy 4.1 Ethernet
+A HandRun HR91105A MagJack board for Teensy 4.1 Ethernet
+
+#Design is still to be tested (awaiting PCBs).
 
 Board files are KiCAD 6.0
 
